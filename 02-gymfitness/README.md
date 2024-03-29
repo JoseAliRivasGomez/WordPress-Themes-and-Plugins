@@ -10,7 +10,8 @@ http://localhost:8088/wp-admin/
 
 Wordpress user:
 jose
-123456
+123456 (local y Hostinger?)
+I:pLPWW!w+s3 (Hostinger?)
 josealirivas2110@gmail.com
 
 El Database host es el nombre del container en docker-compose.yml (mysql)
